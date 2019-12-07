@@ -1,0 +1,9 @@
+drink:
+  type: verb
+  translation: trinken
+eat:
+  type: verb
+  translation: essen
+slow:
+  type: adjective
+  translation: langsam
